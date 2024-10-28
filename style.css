@@ -70,3 +70,7 @@ footer p{
 .cartao__conteudo__resposta{
     backface-visibility: hidden;
 }
+
+.cartao__conteudo__pergunta{
+    transform: rotateY(180deg);
+}
