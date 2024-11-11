@@ -7,5 +7,11 @@ criarCartao(
 criarCartao(
     'geografia',
     'Qual a capital da França?',
-    'A capital da França é Paris .'
+    'A capital da França é Paris '.
+)
+
+criarCartao(
+    'Programação',
+    'O que é JavaScript?',
+    'Uma função .'
 )
